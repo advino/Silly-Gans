@@ -1,1 +1,1 @@
-# Banana GAN
+# Silly GANs
